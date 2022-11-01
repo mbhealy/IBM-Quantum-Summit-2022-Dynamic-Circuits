@@ -1,0 +1,12 @@
+qiskit==0.39
+qiskit-ibm-runtime==0.7.0
+qiskit-experiments
+qiskit-terra
+git+https://github.com/Qiskit/qiskit-ibm-provider.git
+jupyter
+notebook
+matplotlib
+scipy
+seaborn
+mapomatic
+pylatexenc
